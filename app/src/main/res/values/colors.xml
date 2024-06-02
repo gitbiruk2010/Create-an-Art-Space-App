@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="saddle_brown">#8B4513</color>
+    <color name="tan">#D2B48C</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="rosy_brown">#BC8F8F</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
